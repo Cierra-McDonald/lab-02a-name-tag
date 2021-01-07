@@ -3,7 +3,9 @@ h1 {
     font-size:35px;
     padding-bottom: 5px;
 }
-
+ body {
+     background-color: cornflowerblue;
+ }
 
 .container {
     display: grid;
